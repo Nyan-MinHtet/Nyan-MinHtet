@@ -1,17 +1,17 @@
 # 👋 Hi, I’m Nyan Min Htet
 
-**Full-Stack Developer | Passionate Web-Development Learner**
+**Frontend Developer | Passionate Web-Development Learner**
 
 ---
 
-🌱 *“Passionate Web-development learner with strong PHP knowledge, and expanding frontend experience to React.”*
+🌱 *“Passionate Web-development learner with strong PHP knowledge, and expanding frontend experience to Angular & Figma.”*
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Languages:** PHP, JavaScript, HTML, CSS
-- **Frameworks/Libraries:** Laravel, Tailwind CSS, Bootstrap
+- **Languages:**Angular, JavaScript, HTML, CSS
+- **Frameworks/Libraries:**Tailwind CSS, Bootstrap
 - **Databases:** MySQL, PostgreSQL
 - **Tools:** Git
 
@@ -19,9 +19,9 @@
 
 ## 🛠️ What I’m Up To
 
-- Building full-stack web applications with Laravel and modern frontends
-- Expanding my React expertise
-- Always learning & exploring new techs
+- Building full-stack web applications with collaborative team
+- Expanding my angular expertise
+- Always learning & exploring new techs especially AI
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## 📍 Location
 
-Based in Taungoo
+Based in Yangon
 
 ---
 
