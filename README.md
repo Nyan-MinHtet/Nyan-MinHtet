@@ -4,7 +4,7 @@
 
 ---
 
-🌱 *“Passionate Web-development learner with strong PHP knowledge, and expanding frontend experience to Angular & Figma.”*
+🌱 *“Passionate Web-development learner with strong Angular knowledge, and expanding experience to AI & UI/UX.”*
 
 ---
 
